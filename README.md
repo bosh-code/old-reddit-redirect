@@ -21,6 +21,8 @@ Also has a new minor fixes and quality of life improvements like:
 - `reddit.com`
 - `www.reddit.com`
 - `np.reddit.com`
+- `nr.reddit.com`
+- `ns.reddit.com`
 - `amp.reddit.com`
 - `i.reddit.com`
 - `i.redd.it`
